@@ -87,6 +87,10 @@ This Excel dashboard project helped me improve in:
 - Turning raw data into **business-readable insights**  
 
 ---
+## 🖼️ Dashboard Preview
+
+![Coffee Shop Sales Dashboard](https://github.com/Nikhillonkar19-code/Coffee-Shop-Sales-Dashboard/blob/main/coffee_dashboard.png)
+---
 
 
 
